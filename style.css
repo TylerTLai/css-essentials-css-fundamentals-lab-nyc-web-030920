@@ -1,24 +1,24 @@
 body {
-  width: 100%;
   height: 100%;
   margin: 0;
+  width: 100%;
 }
 
 h1 {
-   text-align: center;
+  text-align: center;
 }
 
 img {
   display: block;
-  width: 900px;
   margin-left: auto;
   margin-right: auto;
+  width: 900px;
 }
 
 a {
+  background-color: #eee;
   padding-left: 10px;
   padding-right: 10px;
-  background-color: #eee;
 }
 
 nav {
@@ -41,6 +41,9 @@ figcaption {
 }
 
 div {
-  display: flex;
+  background-color: #eee;
+  display: inline-block;
+  float: left;
+  width: 25%;
   
 }
