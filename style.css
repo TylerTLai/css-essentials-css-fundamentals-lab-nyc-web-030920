@@ -17,5 +17,9 @@ img {
 a {
   padding-left: 10px;
   padding-right: 10px;
-  background-color: #eeeeee;
+  background-color: #eee;
+}
+
+nav {
+  background-color: #eee;
 }
