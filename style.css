@@ -41,6 +41,6 @@ figcaption {
 }
 
 div {
-  display: block;
+  display: flex;
   
 }
