@@ -23,7 +23,8 @@ a {
 
 nav {
   background-color: #eee;
-  margin: auto;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 figcaption {
