@@ -23,3 +23,7 @@ a {
 nav {
   background-color: #eee;
 }
+
+figcaption {
+  font-size: 10px;
+}
